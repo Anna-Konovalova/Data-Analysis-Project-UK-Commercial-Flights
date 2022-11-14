@@ -1,4 +1,6 @@
-Data Analysis Project on UK Commercial Flights: pre- and post-pandemic
+Data Analysis Project 
+
+UK Commercial Flights: pre- and post-pandemic
 ======
 
 Project Overview
@@ -18,6 +20,7 @@ The data I used for this project comes from [Eurocontrol](https://ansperformance
 I have used two datasets: *flights.csv* and *delays.csv*. 
 
 *flights.csv* contains data on daily IFR arrivals and departures by airport for the period January 2016 - September 2022. 
+
 *delays.csv* contains data on total daily pre-departure delays by airport for the period January 2016 - August 2022.
 
 <img width="849" alt="Screenshot 2022-11-14 at 15 30 48" src="https://user-images.githubusercontent.com/78367070/201699925-3ff408cc-4794-4aca-8f6f-b42a057d3298.png">
@@ -33,12 +36,14 @@ Data Analysis Summary
 * In the third quarter of 2022 flight departures are still not at pre-pandemic levels.
 
 
+
 2. How has the UK recovered from Covid-19 compared to other major European countries?
 
 ![data_vis_2](https://user-images.githubusercontent.com/78367070/201701264-0ddc0cb4-3c7b-4261-80dd-f335838a4801.png)
 
 * Comparing current average daily departures, to those in 2019, the UK has had a worse recovery than Italy, Spain and France. The average daily departures currently make up 78% of 2019 average for the UK, compared to 90%, 93% and 90% for Italy, Spain and France respectively. 
 * The UK has had a better recovery than Germany - 78% for the UK compared to 71% for Germany.
+
 
 
 3. Have the top busiest UK airports gone back to pre-pandemic levels?
@@ -48,6 +53,7 @@ Data Analysis Summary
 * All of the top busiest airports in the UK do not have the same number of departures that they had before the pandemic.
 * The closest to pre-pandemic levels airports are London Stansted, followed by East Midlands, London Luton, London Gatwick and Manchester. 
 * The worst recovery in terms of flight departure numbers is experienced by London City airport.
+
 
 
 4. How do post-pandemic flight departure delays compare to pre-pandemic levels in the UK?
