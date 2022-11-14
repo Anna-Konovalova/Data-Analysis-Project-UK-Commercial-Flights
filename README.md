@@ -13,15 +13,21 @@ In this prjoject, I analysed commercial flights in the United Kingdom before and
 3. Have the top busiest UK airports gone back to pre-pandemic levels?
 4. How do post-pandemic flight departure delays compare to pre-pandemic levels in the UK?
 
+
+Tech
+------
+The whole project was completed in Python. For data validation and data wrangling I used Pandas and NumPy. For data visualisation I used Matplotlib and Seaborn.  
+
+
 Data
 ------
 The data I used for this project comes from [Eurocontrol](https://ansperformance.eu/data/) - a pan-European, civil-military organisation dedicated to supporting European aviation. Data on commercial flights include scheduled and non-scheduled commercial flights (passengers, freight and mail) performed under Instrument Flight Rules (IFR).
 
 I have used two datasets: *flights.csv* and *delays.csv*. 
 
-*flights.csv* contains data on daily IFR arrivals and departures by airport for the period January 2016 - September 2022. 
+*flights.csv* contains raw data on daily IFR arrivals and departures by airport for the period January 2016 - September 2022. 
 
-*delays.csv* contains data on total daily pre-departure delays by airport for the period January 2016 - August 2022.
+*delays.csv* contains raw data on total daily pre-departure delays by airport for the period January 2016 - August 2022.
 
 <img width="849" alt="Screenshot 2022-11-14 at 15 30 48" src="https://user-images.githubusercontent.com/78367070/201699925-3ff408cc-4794-4aca-8f6f-b42a057d3298.png">
 
