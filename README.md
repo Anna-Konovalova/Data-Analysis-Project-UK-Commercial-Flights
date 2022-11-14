@@ -28,6 +28,7 @@ I have used two datasets: *flights.csv* and *delays.csv*.
 Data Analysis Summary
 ------
 ### 1. How does the number of flight departures compare pre- and post-pandemic in the UK?
+&nbsp;  
 
 
 ![data_vis_1](https://user-images.githubusercontent.com/78367070/201700954-a6f1c240-8d45-4bc5-86ef-a38c105dcda0.png)
@@ -38,6 +39,7 @@ Data Analysis Summary
 * In the third quarter of 2022 flight departures are still not at pre-pandemic levels.
 
 
+&nbsp;  
 
 ### 2. How has the UK recovered from Covid-19 compared to other major European countries?
 &nbsp;  
@@ -53,6 +55,7 @@ Data Analysis Summary
 &nbsp;  
 
 ### 3. Have the top busiest UK airports gone back to pre-pandemic levels?
+&nbsp;  
 
 
 ![data_vis_3](https://user-images.githubusercontent.com/78367070/201701554-391b9023-4b5c-4147-ba94-31f809600a96.png)
@@ -63,8 +66,10 @@ Data Analysis Summary
 * The worst recovery in terms of flight departure numbers is experienced by London City airport.
 
 
+&nbsp;  
 
 ### 4. How do post-pandemic flight departure delays compare to pre-pandemic levels in the UK?
+&nbsp;  
 
 
 ![data_vis_4](https://user-images.githubusercontent.com/78367070/201701813-f458158f-1da4-4b64-93be-c71e4c406019.png)
