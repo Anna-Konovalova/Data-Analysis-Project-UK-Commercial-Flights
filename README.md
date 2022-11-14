@@ -74,7 +74,7 @@ Data Analysis Summary
 &nbsp;  
 
 * All of the top busiest airports in the UK do not have the same number of departures that they had before the pandemic.
-* The closest to pre-pandemic levels airports are London Stansted, followed by East Midlands, London Luton, London Gatwick and Manchester. 
+* Airports where flight departures are the closest to pre-pandemic levels are London Stansted, followed by East Midlands, London Luton, London Gatwick and Manchester. 
 * The worst recovery in terms of flight departure numbers is experienced by London City airport.
 
 
