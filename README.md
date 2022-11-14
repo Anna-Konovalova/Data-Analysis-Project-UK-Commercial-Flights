@@ -40,6 +40,7 @@ Data Analysis Summary
 
 
 ### 2. How has the UK recovered from Covid-19 compared to other major European countries?
+&nbsp;  
 
 
 ![data_vis_2](https://user-images.githubusercontent.com/78367070/201701264-0ddc0cb4-3c7b-4261-80dd-f335838a4801.png)
@@ -49,6 +50,7 @@ Data Analysis Summary
 * The UK has had a better recovery than Germany - 78% for the UK compared to 71% for Germany.
 
 
+&nbsp;  
 
 ### 3. Have the top busiest UK airports gone back to pre-pandemic levels?
 
