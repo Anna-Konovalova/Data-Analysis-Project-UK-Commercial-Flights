@@ -33,7 +33,7 @@ I have used two datasets: *flights.csv* and *delays.csv*.
 
 Data Analysis Summary
 ------
-### 1. How does the number of flight departures compare pre- and post-pandemic in the UK?
+### 1. How does the number of flight departures compare before and after the pandemic in the UK?
 &nbsp;  
 
 
